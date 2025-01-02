@@ -51,14 +51,12 @@ F1-Score
 Citation
 
 Copy code
-[Details of the dataset or publication it originates from]
 License
 This dataset is distributed under the [LICENSE NAME] license. See the LICENSE file for details.
 
 Acknowledgments
 We would like to thank Kagel for providing the data and supporting this project.
 
-You can adapt this template to your dataset, adding specifics such as data preprocessing steps, any ethical considerations, or additional context about how the data was collected. Let me know if you need help with specific sections!
 
 
 
