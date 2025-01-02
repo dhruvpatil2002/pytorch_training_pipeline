@@ -67,7 +67,3 @@ We would like to thank Kagel for providing the data and supporting this project.
 
 
 
-
-
-
-ChatGPT can make mistakes. Check important info.
